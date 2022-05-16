@@ -2,7 +2,7 @@
 
 Criando o primeiro READ ME.
 
-## Instruções:
+## Instruções iniciais TI Academy - Git:
 
 1 - Abra seu e-mail.
 
